@@ -4,12 +4,8 @@ import router from "~/router";
 import i18n from "~/plugins/i18n";
 import App from "~/components/App";
 
-import VueDraggable from "vue-draggable";
-
 import "~/plugins";
 import "~/components";
-
-Vue.use(VueDraggable);
 
 Vue.config.productionTip = false;
 
