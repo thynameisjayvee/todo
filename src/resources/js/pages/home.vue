@@ -34,12 +34,12 @@
           </button>
         </div>
         <ul class="list-group">
-          <li class="list-group-item">
-            <todo-card class="bg-pale-red" />
+          <li v-for="(todoData, index) in todos" :key="index" class="list-group-item">
+            <todo-card class="bg-pale-red" :todoData="todoData" />
           </li>
-          <li class="list-group-item">
+          <!-- <li class="list-group-item">
             <todo-card class="bg-pale-red" />
-          </li>
+          </li>-->
         </ul>
       </div>
     </div>
@@ -91,11 +91,23 @@ export default {
 
   data: () => {
     return {
-      showForm: false
+      showForm: false,
+      todos: null
     };
   },
 
   methods: {
+    fetchTodosHandler() {
+      axios
+        .get("/api/todo")
+        .then(({ data }) => {
+          this.todos = data;
+        })
+        .catch(e => {
+          console.log(e);
+        });
+    },
+
     showFormHandler() {
       this.showForm = !this.showForm;
     },
@@ -110,6 +122,10 @@ export default {
           console.log(e);
         });
     }
+  },
+
+  created() {
+    this.fetchTodosHandler();
   }
 };
 </script>

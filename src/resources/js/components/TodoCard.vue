@@ -1,7 +1,7 @@
 <template>
   <div :class="'card p-1 bc-inherit ' + className">
-    <h5 class="card-title">{{ title }}</h5>
-    <p class="card-text">{{ description }}</p>
+    <h5 class="card-title">{{ todoData.title }}</h5>
+    <p class="card-text">{{ todoData.description }}</p>
   </div>
 </template>
 
@@ -12,13 +12,11 @@ export default {
       type: String,
       default: ""
     },
-    title: {
-      type: String,
-      default: "Insert Title Here"
-    },
-    description: {
-      type: String,
-      default: "Insert Description Here"
+    todoData: {
+      type: Object,
+      default: () => {
+        return { message: "no data" };
+      }
     }
   }
 };
