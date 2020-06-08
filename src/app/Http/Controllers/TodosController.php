@@ -4,6 +4,9 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
+use Auth;
+use App\Models\Todo;
+
 class TodosController extends Controller
 {
     /**
@@ -13,7 +16,9 @@ class TodosController extends Controller
      */
     public function index()
     {
-        //
+        $todos = Todo::where('user_id', Auth::id())->get();
+
+        return response()->json($todos, 200);
     }
 
     /**
@@ -24,7 +29,14 @@ class TodosController extends Controller
      */
     public function store(Request $request)
     {
-        //
+
+        $todo = Todo::create([
+            'title' => $request->input('title'),
+            'description' => $request->input('description'),
+            'user_id' => Auth::id()
+        ]);
+
+        return response()->json(['message' => 'Saved Successfully'], 200);
     }
 
     /**
@@ -35,7 +47,8 @@ class TodosController extends Controller
      */
     public function show($id)
     {
-        //
+        $todo = Todo::findOrFail($id);
+        return response()->json($todo, 200);
     }
 
     /**
@@ -47,7 +60,10 @@ class TodosController extends Controller
      */
     public function update(Request $request, $id)
     {
-        //
+        $todo = Todo::findOrFail($id);
+        $todo->update($request->all());
+
+        return response()->json($todo, 200);
     }
 
     /**
@@ -58,6 +74,8 @@ class TodosController extends Controller
      */
     public function destroy($id)
     {
-        //
+        Todo::destroy($id);
+
+        return response()->json(['message' => 'Deleted Successfully'], 200);
     }
 }
