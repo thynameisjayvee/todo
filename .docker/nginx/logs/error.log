@@ -1,0 +1,318 @@
+2020/05/09 01:55:57 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 01:56:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 01:56:12 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 01:56:17 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 01:56:21 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 01:56:25 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 01:56:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 01:56:40 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 01:56:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 01:57:24 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 01:58:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 01:59:20 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:00:22 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:01:24 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:02:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:03:34 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:04:37 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:05:40 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:06:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:07:49 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:08:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:09:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:10:58 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:12:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:13:05 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:14:11 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:15:15 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:16:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:17:24 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:18:27 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:19:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:20:34 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:21:36 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:22:40 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:23:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:24:46 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:25:48 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:26:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:27:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:28:59 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:30:05 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:31:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:32:09 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:33:11 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:34:14 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:35:17 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:36:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:37:23 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:38:25 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:39:28 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:40:33 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:41:36 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:42:38 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:43:40 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:44:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:45:47 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:46:49 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:47:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:48:53 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:49:56 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:50:59 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:52:02 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:53:04 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:54:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:55:11 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:56:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:57:21 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:58:23 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 02:59:25 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:00:28 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:01:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:02:35 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:03:38 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:04:41 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:05:44 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:06:47 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:07:52 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:08:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:09:56 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:10:58 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:12:01 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:13:08 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:14:10 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:15:12 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:16:14 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:17:17 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:18:23 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:19:25 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:20:28 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:21:32 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:22:35 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:23:41 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:24:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:25:45 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:26:48 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:27:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:28:57 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:30:04 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:31:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:32:13 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:33:15 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:34:17 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:35:23 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:36:25 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:37:27 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:38:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:39:33 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:40:39 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:41:41 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:42:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:43:46 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:44:48 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:45:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:46:56 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:48:00 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:49:04 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:50:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:51:11 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:52:14 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:53:16 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:54:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:55:21 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:56:25 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:57:27 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:58:29 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 03:59:32 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 04:00:34 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 04:01:40 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 04:02:47 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 04:03:50 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 04:04:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 04:05:57 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 04:07:00 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 04:08:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 04:09:09 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 04:10:12 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 04:11:16 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 04:12:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 04:13:22 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 04:14:28 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 04:15:33 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 04:16:36 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 04:17:38 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 04:18:40 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 04:19:46 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 08:04:39 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 08:04:44 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 08:04:48 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 08:04:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 08:04:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 08:04:59 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 08:05:04 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 08:05:13 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 08:05:28 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 08:05:56 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 08:06:50 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 08:07:52 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 08:08:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 08:09:57 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 08:11:00 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 08:12:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 08:13:05 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 08:14:08 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/09 08:15:11 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:17:12 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:17:16 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:17:20 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:17:26 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:17:29 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:17:34 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:17:40 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:17:50 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:18:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:18:36 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:19:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:20:34 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:26:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:26:12 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:26:15 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:26:23 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:26:27 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:26:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:26:38 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:26:48 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:27:04 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 08:27:34 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/10 09:00:50 [warn] 6#6: *5 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/00/0000000001 while reading upstream, client: 172.22.0.1, server: , request: "POST /login HTTP/1.1", upstream: "fastcgi://172.22.0.3:9000", host: "localhost:10080", referrer: "http://localhost:10080/login"
+2020/05/10 13:11:08 [warn] 6#6: *51 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/00/0000000001 while reading upstream, client: 172.22.0.1, server: , request: "POST /api/login HTTP/1.1", upstream: "fastcgi://172.22.0.3:9000", host: "localhost:10080"
+2020/05/10 13:13:36 [warn] 6#6: *58 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/2/00/0000000002 while reading upstream, client: 172.22.0.1, server: , request: "POST /api/login HTTP/1.1", upstream: "fastcgi://172.22.0.3:9000", host: "localhost:10080"
+2020/05/10 13:16:19 [warn] 6#6: *63 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/3/00/0000000003 while reading upstream, client: 172.22.0.1, server: , request: "POST /api/login HTTP/1.1", upstream: "fastcgi://172.22.0.3:9000", host: "localhost:10080"
+2020/05/10 13:19:25 [warn] 6#6: *66 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/4/00/0000000004 while reading upstream, client: 172.22.0.1, server: , request: "POST /api/login HTTP/1.1", upstream: "fastcgi://172.22.0.3:9000", host: "localhost:10080"
+2020/05/10 13:20:39 [warn] 6#6: *73 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/5/00/0000000005 while reading upstream, client: 172.22.0.1, server: , request: "POST /api/login HTTP/1.1", upstream: "fastcgi://172.22.0.3:9000", host: "localhost:10080"
+2020/05/10 13:21:04 [warn] 6#6: *73 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/6/00/0000000006 while reading upstream, client: 172.22.0.1, server: , request: "POST /api/login HTTP/1.1", upstream: "fastcgi://172.22.0.3:9000", host: "localhost:10080"
+2020/05/10 13:24:53 [warn] 6#6: *81 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/7/00/0000000007 while reading upstream, client: 172.22.0.1, server: , request: "POST /api/user HTTP/1.1", upstream: "fastcgi://172.22.0.3:9000", host: "localhost:10080"
+2020/05/10 13:32:26 [warn] 6#6: *87 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/8/00/0000000008 while reading upstream, client: 172.22.0.1, server: , request: "POST /api/login HTTP/1.1", upstream: "fastcgi://172.22.0.3:9000", host: "localhost:10080"
+2020/05/10 13:44:13 [warn] 6#6: *121 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/9/00/0000000009 while reading upstream, client: 172.22.0.1, server: , request: "POST /api/register HTTP/1.1", upstream: "fastcgi://172.22.0.3:9000", host: "localhost:10080"
+2020/05/11 00:11:35 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:11:39 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:11:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:11:47 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:11:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:11:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:12:01 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:12:09 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:12:24 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:12:52 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:13:46 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:14:48 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:15:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:16:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:17:57 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:18:59 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:20:01 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:21:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:22:05 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:23:08 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:24:14 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:25:20 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:26:26 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:27:33 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:28:35 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:29:37 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:30:40 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:31:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:32:47 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:33:53 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:34:59 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:36:05 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:37:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:38:09 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:39:12 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:40:14 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:41:17 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:42:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:43:22 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:44:28 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:45:35 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:46:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:47:49 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:48:52 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:49:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:50:57 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:52:00 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:53:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:54:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:55:08 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:56:13 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/05/11 00:57:16 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/06/04 09:26:00 [error] 6#6: *2 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "selenium.test"
+2020/06/04 09:26:00 [error] 6#6: *2 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.6, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "selenium.test", referrer: "http://selenium.test/"
+2020/06/04 09:27:37 [error] 7#7: *6 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET /service-worker.js HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080", referrer: "http://localhost:10080/service-worker.js"
+2020/06/04 09:28:36 [error] 7#7: *8 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "selenium.test"
+2020/06/04 09:28:36 [error] 7#7: *8 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.6, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "selenium.test", referrer: "http://selenium.test/"
+2020/06/04 09:29:17 [error] 7#7: *12 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "selenium.test"
+2020/06/04 09:29:17 [error] 7#7: *12 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.6, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "selenium.test", referrer: "http://selenium.test/"
+2020/06/04 09:29:33 [error] 7#7: *16 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET /service-worker.js HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080", referrer: "http://localhost:10080/"
+2020/06/04 09:29:33 [error] 7#7: *17 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET /img/icons/favicon-32x32.png HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080", referrer: "http://localhost:10080/"
+2020/06/04 09:29:33 [error] 7#7: *17 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET /img/icons/favicon-16x16.png HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080", referrer: "http://localhost:10080/"
+2020/06/04 09:29:33 [error] 7#7: *17 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET /img/icons/android-chrome-192x192.png HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080", referrer: "http://localhost:10080/"
+2020/06/04 09:29:34 [error] 7#7: *17 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080"
+2020/06/04 09:29:34 [error] 7#7: *17 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080", referrer: "http://localhost:10080/"
+2020/06/04 09:29:35 [error] 7#7: *17 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080"
+2020/06/04 09:29:35 [error] 7#7: *17 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080", referrer: "http://localhost:10080/"
+2020/06/04 09:30:07 [error] 7#7: *17 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080"
+2020/06/04 09:30:07 [error] 7#7: *17 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080"
+2020/06/04 09:30:07 [error] 7#7: *17 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080", referrer: "http://localhost:10080/"
+2020/06/04 12:11:08 [error] 7#7: *29 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "selenium.test"
+2020/06/04 12:11:08 [error] 7#7: *29 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.6, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "selenium.test", referrer: "http://selenium.test/"
+2020/06/04 12:11:25 [error] 7#7: *33 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "selenium.test"
+2020/06/04 12:11:25 [error] 7#7: *33 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.6, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "selenium.test", referrer: "http://selenium.test/"
+2020/06/04 12:12:14 [error] 7#7: *37 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080"
+2020/06/04 12:12:14 [error] 7#7: *37 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080"
+2020/06/04 12:12:15 [error] 7#7: *37 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080"
+2020/06/04 12:12:15 [error] 7#7: *37 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080", referrer: "http://localhost:10080/"
+2020/06/04 12:12:16 [error] 7#7: *37 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080"
+2020/06/04 12:12:16 [error] 7#7: *37 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080", referrer: "http://localhost:10080/"
+2020/06/04 12:12:16 [error] 7#7: *37 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080"
+2020/06/04 12:12:16 [error] 7#7: *37 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080", referrer: "http://localhost:10080/"
+2020/06/04 12:12:16 [error] 7#7: *37 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080"
+2020/06/04 12:12:16 [error] 7#7: *37 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080", referrer: "http://localhost:10080/"
+2020/06/04 12:12:17 [error] 7#7: *37 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080"
+2020/06/04 12:12:17 [error] 7#7: *37 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.23.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.23.0.2:9000", host: "localhost:10080", referrer: "http://localhost:10080/"
+2020/06/04 12:14:36 [warn] 6#6: *1 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/00/0000000001 while reading upstream, client: 172.24.0.1, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "localhost:10080"
+2020/06/04 12:15:15 [warn] 6#6: *8 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/2/00/0000000002 while reading upstream, client: 172.24.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "selenium.test"
+2020/06/04 12:24:02 [warn] 6#6: *12 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/3/00/0000000003 while reading upstream, client: 172.24.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "selenium.test"
+2020/06/04 12:24:15 [warn] 6#6: *16 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/4/00/0000000004 while reading upstream, client: 172.24.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "selenium.test"
+2020/06/04 12:25:37 [warn] 6#6: *20 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/5/00/0000000005 while reading upstream, client: 172.24.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "selenium.test"
+2020/06/04 12:26:05 [warn] 6#6: *27 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/6/00/0000000006 while reading upstream, client: 172.24.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "selenium.test"
+2020/06/04 12:26:24 [warn] 6#6: *31 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/7/00/0000000007 while reading upstream, client: 172.24.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "selenium.test"
+2020/06/04 12:26:44 [warn] 6#6: *35 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/8/00/0000000008 while reading upstream, client: 172.24.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "selenium.test"
+2020/06/04 12:27:15 [warn] 6#6: *42 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/9/00/0000000009 while reading upstream, client: 172.24.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "selenium.test"
+2020/06/04 12:27:31 [warn] 6#6: *46 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/0/01/0000000010 while reading upstream, client: 172.24.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "selenium.test"
+2020/06/04 12:28:33 [warn] 6#6: *52 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/01/0000000011 while reading upstream, client: 172.24.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "selenium.test"
+2020/06/04 12:29:34 [warn] 6#6: *56 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/2/01/0000000012 while reading upstream, client: 172.24.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "selenium.test"
+2020/06/04 12:32:36 [warn] 6#6: *67 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/3/01/0000000013 while reading upstream, client: 172.24.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "selenium.test"
+2020/06/04 12:32:47 [warn] 6#6: *71 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/4/01/0000000014 while reading upstream, client: 172.24.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "selenium.test"
+2020/06/04 12:34:32 [warn] 6#6: *75 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/5/01/0000000015 while reading upstream, client: 172.24.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "selenium.test"
+2020/06/04 12:34:50 [warn] 6#6: *79 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/6/01/0000000016 while reading upstream, client: 172.24.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "selenium.test"
+2020/06/04 12:36:22 [warn] 6#6: *83 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/7/01/0000000017 while reading upstream, client: 172.24.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "selenium.test"
+2020/06/04 12:41:42 [warn] 6#6: *87 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/8/01/0000000018 while reading upstream, client: 172.24.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "selenium.test"
+2020/06/04 12:42:10 [warn] 6#6: *91 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/9/01/0000000019 while reading upstream, client: 172.24.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "selenium.test"
+2020/06/04 12:44:12 [warn] 6#6: *95 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/0/02/0000000020 while reading upstream, client: 172.24.0.6, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.24.0.3:9000", host: "selenium.test"
+2020/06/04 12:48:40 [warn] 6#6: *1 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/1/00/0000000001 while reading upstream, client: 172.25.0.7, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.3:9000", host: "selenium.test"
+2020/06/04 12:49:10 [warn] 6#6: *6 an upstream response is buffered to a temporary file /var/cache/nginx/fastcgi_temp/2/00/0000000002 while reading upstream, client: 172.25.0.7, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.3:9000", host: "selenium.test"
+2020/06/08 02:05:47 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/06/08 02:05:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/06/08 02:06:00 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/06/08 02:06:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/06/08 02:06:12 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/06/08 02:06:17 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/06/08 02:06:23 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/06/08 02:06:33 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/06/08 02:06:50 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/06/08 04:24:23 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/06/08 04:24:27 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/06/08 04:24:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/06/08 04:24:34 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
+2020/06/08 04:24:37 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/default.conf:58
