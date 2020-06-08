@@ -1,8 +1,42 @@
-@import 'variables';
-@import '~bootstrap/scss/bootstrap';
-@import '~sweetalert2/src/sweetalert2';
+@import "variables";
+@import "~bootstrap/scss/bootstrap";
+@import "~sweetalert2/src/sweetalert2";
 
-@import 'elements/card';
-@import 'elements/navbar';
-@import 'elements/buttons';
-@import 'elements/transitions';
+@import "elements/card";
+@import "elements/navbar";
+@import "elements/buttons";
+@import "elements/transitions";
+
+.bc-inherit {
+  border-color: inherit;
+}
+
+.bg {
+  &-pale {
+    &-green {
+      background-color: #99b898;
+    }
+    &-orange {
+      background-color: #feceab;
+    }
+    &-red {
+      background-color: #ff847c;
+    }
+  }
+}
+
+.card {
+  &.bg {
+    &-pale {
+      &-green {
+        background-color: #c6d7c5;
+      }
+      &-orange {
+        background-color: #ffebdd;
+      }
+      &-red {
+        background-color: #ffccc9;
+      }
+    }
+  }
+}
