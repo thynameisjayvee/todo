@@ -7,10 +7,11 @@
           <div class="form-group">
             <label for="title">Title</label>
             <input v-model="todo.title" name="title" type="text" class="form-control" />
-            <!-- <small
-              id="emailHelp"
-              class="form-text text-muted"
-            >We'll never share your email with anyone else.</small>-->
+            <small
+              v-if="todoErrors && todoErrors.title"
+              class="form-text"
+              style="color: red;"
+            >{{ todoErrors.title[0] }}</small>
           </div>
           <div class="form-group">
             <label for="description">Description</label>
@@ -20,6 +21,11 @@
               rows="5"
               style="resize: none;"
             />
+            <small
+              v-if="todoErrors && todoErrors.description"
+              class="form-text"
+              style="color: red;"
+            >{{ todoErrors.description[0] }}</small>
             <!-- <input type="description" class="form-control" /> -->
           </div>
           <button class="btn btn-primary" @click.prevent="$emit('addTodoHandler', todo)">Add</button>
@@ -32,6 +38,15 @@
 
 <script>
 export default {
+  props: {
+    todoErrors: {
+      type: Object,
+      default: () => {
+        return { message: "no data" };
+      }
+    }
+  },
+
   data() {
     return {
       todo: {

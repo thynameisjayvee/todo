@@ -29,6 +29,10 @@ class TodosController extends Controller
      */
     public function store(Request $request)
     {
+        $this->validate($request, [
+            'title' => 'required',
+            'description' => 'required'
+        ]);
 
         $todo = Todo::create([
             'title' => $request->input('title'),
@@ -36,7 +40,7 @@ class TodosController extends Controller
             'user_id' => Auth::id()
         ]);
 
-        return response()->json(['message' => 'Saved Successfully'], 200);
+        return response()->json($todo, 200);
     }
 
     /**

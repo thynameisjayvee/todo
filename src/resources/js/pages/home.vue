@@ -4,12 +4,13 @@
       v-if="showForm"
       @showFormHandler="showFormHandler"
       @addTodoHandler="addTodoHandler"
+      :todoErrors="todoErrors"
     />
     <div class="col-md-4">
       <div class="wrapper bg-pale-red mx-1">
         <div class="d-flex">
           <h4 class="p-2 mb-0">Todo</h4>
-          <button class="ml-auto btn" @click="showFormHandler">
+          <button class="ml-auto btn" @click.prevent="showFormHandler">
             <svg
               class="bi bi-plus-circle"
               width="1em"
@@ -35,11 +36,8 @@
         </div>
         <ul class="list-group">
           <li v-for="(todoData, index) in todos" :key="index" class="list-group-item">
-            <todo-card class="bg-pale-red" :todoData="todoData" />
+            <todo-card class="bg-pale-red" :todoData="todoData" @delTodoHandler="delTodoHandler" />
           </li>
-          <!-- <li class="list-group-item">
-            <todo-card class="bg-pale-red" />
-          </li>-->
         </ul>
       </div>
     </div>
@@ -92,7 +90,8 @@ export default {
   data: () => {
     return {
       showForm: false,
-      todos: null
+      todos: null,
+      todoErrors: null
     };
   },
 
@@ -110,13 +109,28 @@ export default {
 
     showFormHandler() {
       this.showForm = !this.showForm;
+      this.todoErrors = null;
     },
 
     addTodoHandler(todo) {
       axios
         .post("/api/todo", { ...todo })
-        .then(res => {
-          console.log(res);
+        .then(({ data }) => {
+          this.todos.push(data);
+          this.showForm = false;
+        })
+        .catch(e => {
+          console.log(e);
+          this.todoErrors = e.response.data.errors;
+        });
+    },
+
+    delTodoHandler(id) {
+      axios
+        .delete(`/api/todo/${id}`)
+        .then(() => {
+          let todo = this.todos.findIndex(item => item.id === id);
+          this.todos.splice(todo, 1);
         })
         .catch(e => {
           console.log(e);
