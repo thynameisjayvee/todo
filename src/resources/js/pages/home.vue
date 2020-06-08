@@ -6,6 +6,11 @@
       @addTodoHandler="addTodoHandler"
       :todoErrors="todoErrors"
     />
+    <div class="col-md-12">
+      <div class="w-50 mb-2" style="padding-left: 4px;">
+        <input v-model="filter" type="text" class="form-control" placeholder="Search Keyword" />
+      </div>
+    </div>
     <div class="col-md-4">
       <div class="wrapper bg-pale-red mx-1">
         <div class="d-flex">
@@ -35,7 +40,7 @@
           </button>
         </div>
         <ul class="list-group">
-          <li v-for="(todoData, index) in todos" :key="index" class="list-group-item">
+          <li v-for="(todoData, index) in on_todos" :key="index" class="list-group-item">
             <todo-card class="bg-pale-red" :todoData="todoData" @delTodoHandler="delTodoHandler" />
           </li>
         </ul>
@@ -45,11 +50,13 @@
       <div class="wrapper bg-pale-orange mx-1">
         <h4 class="p-2 mb-0">In Progress</h4>
         <ul class="list-group">
-          <li class="list-group-item">
-            <todo-card class="bg-pale-orange" />
-          </li>
-          <li class="list-group-item">
-            <todo-card class="bg-pale-orange" />
+          <li v-for="(todoData, index) in in_prog_todos" :key="index" class="list-group-item">
+            <todo-card
+              v-if="todoData.status == 2"
+              class="bg-pale-red"
+              :todoData="todoData"
+              @delTodoHandler="delTodoHandler"
+            />
           </li>
         </ul>
       </div>
@@ -58,11 +65,13 @@
       <div class="wrapper bg-pale-green mx-1">
         <h4 class="p-2 mb-0">Done</h4>
         <ul class="list-group">
-          <li class="list-group-item">
-            <todo-card class="bg-pale-green" />
-          </li>
-          <li class="list-group-item">
-            <todo-card class="bg-pale-green" />
+          <li v-for="(todoData, index) in done_todos" :key="index" class="list-group-item">
+            <todo-card
+              v-if="todoData.status == 3"
+              class="bg-pale-red"
+              :todoData="todoData"
+              @delTodoHandler="delTodoHandler"
+            />
           </li>
         </ul>
       </div>
@@ -87,12 +96,77 @@ export default {
     TodoModal
   },
 
-  data: () => {
+  data() {
     return {
       showForm: false,
-      todos: null,
-      todoErrors: null
+      todos: [],
+      todoErrors: null,
+      filter: null
     };
+  },
+
+  computed: {
+    on_todos() {
+      var todos = this.todos;
+      todos = todos.filter(item => {
+        if (item.status === 1) {
+          return item;
+        }
+      });
+
+      if (this.filter) {
+        todos = todos.filter(item => {
+          let n = item.title.search(this.filter);
+          if (n > -1) {
+            return item;
+          }
+        });
+      }
+
+      return todos;
+    },
+
+    in_prog_todos() {
+      var todos = this.todos;
+
+      todos = todos.filter(item => {
+        if (item.status === 2) {
+          return item;
+        }
+      });
+
+      if (this.filter) {
+        todos = todos.filter(item => {
+          let n = item.title.search(this.filter);
+          if (n > -1) {
+            return item;
+          }
+        });
+      }
+
+      return todos;
+    },
+
+    done_todos() {
+      var todos = this.todos;
+
+      todos = todos.filter(item => {
+        if (item.status === 3) {
+          return item;
+        }
+      });
+
+      if (this.filter) {
+        todos = todos.filter(item => {
+          let n = item.title.search(this.filter);
+          if (n > -1) {
+            return item;
+          }
+        });
+      }
+
+      return todos;
+    }
   },
 
   methods: {
@@ -115,8 +189,8 @@ export default {
     addTodoHandler(todo) {
       axios
         .post("/api/todo", { ...todo })
-        .then(({ data }) => {
-          this.todos.push(data);
+        .then(() => {
+          this.fetchTodosHandler();
           this.showForm = false;
         })
         .catch(e => {
